@@ -1,0 +1,7 @@
+.vscode
+
+Pipfile
+Pipfile.lock
+
+venv
+tertran.egg-info
