@@ -4,7 +4,7 @@ Tertran is a very bad name to my CLI built in python made to work in the termina
 
 ## Requeriments
 
-It needs python and pipp to work. It will also require external packages which can be installed with pip.
+It needs python and pip to work. It will also require external packages which can be installed with pip.
 
 ## Install
 
@@ -12,6 +12,12 @@ Download or use Git to clone this repository, once the directory is selected, us
 
 ```cmd
 pip install .
+```
+
+or:
+
+```cmd
+pip install tertran
 ```
 
 ## Usage

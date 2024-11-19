@@ -1,7 +1,10 @@
 .vscode
 
-Pipfile
 Pipfile.lock
 
 venv
 tertran.egg-info
+
+cache.sqlite
+build
+__pycache__/
